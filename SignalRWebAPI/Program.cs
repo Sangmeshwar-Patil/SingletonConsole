@@ -14,6 +14,7 @@ namespace SignalRWebAPI
     {
         public static void Main(string[] args)
         {
+            //sample
             CreateWebHostBuilder(args).Build().Run();
         }
 
